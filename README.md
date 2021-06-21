@@ -1,5 +1,5 @@
 # Weather App 
-Python project to look up current weather conditions
+Python project to look up current weather conditions in any U.S. city.
 
 The user is prompted to enter a city name and state name. The Python file returns the following:
   1. Current temperature
