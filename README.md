@@ -12,3 +12,5 @@ The user is prompted to enter a city name and state name. The Python file return
 The app uses a loop so that the user can continue looking up weather for any city/state combination and is prompted to enter 'q' when wanting to leave the app. 
 
 This project was created to learn the fundamentals of connecting to an API, using JSON, and Python skills (for loops, try/except, etc.). 
+
+[Code](https://github.com/madelinebauer/Weather/blob/ee967cd929f5a97ff6ff5633c812eb1f3b1c9a25/Python%20Weather%20App.ipynb "Check out the code here!")
